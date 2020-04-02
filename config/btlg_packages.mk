@@ -8,10 +8,10 @@ PRODUCT_PACKAGES += \
     GugelClock \
     Jelly \
     LatinIME \
+    OPScreenRecorder \
     OmniStyle \
     OmniJaws \
     Phonograph \
-    Recorder \
     ThemePicker
 
 ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
